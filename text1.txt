@@ -1,0 +1,12 @@
+Time-keeping and synchronization of clocks has been a critical problem in long-distance ocean navigation.
+Before radio navigation and satellite-based navigation, navigators required accurate time in conjunction with
+astronomical observations to determine how far east or west their vessel traveled. The invention of an accurate
+marine chronometer revolutionized marine navigation. By the end of the 19th century, important ports provided time
+signals in the form of a signal gun, flag, or dropping time ball so that mariners could check their chronometers for error.
+
+Synchronization was important in the operation of 19th century railways, these being the first major means of transport
+fast enough for differences in local time between nearby towns to be noticeable. Each line handled the problem by synchronizing
+all its stations to headquarters as a standard railroad time. In some territories, companies shared a single railroad track and needed
+to avoid collisions. The need for strict timekeeping led the companies to settle on one standard, and civil authorities eventually abandoned
+local mean solar time in favor of that standard.
+

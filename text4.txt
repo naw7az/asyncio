@@ -1,0 +1,2 @@
+A single processor or uniprocessor system could disable interrupts by executing currently running code without preemption, 
+which is very inefficient on multiprocessor systems.

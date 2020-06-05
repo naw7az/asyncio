@@ -1,0 +1,5 @@
+One of the challenges for exascale algorithm design is to minimize or reduce synchronization. Synchronization takes more time than
+computation, especially in distributed computing. Reducing synchronization drew attention from computer scientists for decades. 
+Whereas it becomes an increasingly significant problem recently as the gap between the improvement of computing and latency increases. 
+Experiments have shown that (global) communications due to synchronization on a distributed computers takes a dominated share in a sparse 
+iterative solver.[2]  
